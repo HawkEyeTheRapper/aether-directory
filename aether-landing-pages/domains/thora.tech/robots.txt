@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://thora.tech//sitemap.xml

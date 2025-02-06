@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://omniversalaether.org//sitemap.xml
