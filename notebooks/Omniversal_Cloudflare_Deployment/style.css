@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding: 50px;
+    background-color: #000;
+    color: #fff;
+}
+h1 { font-size: 3rem; }
+p { font-size: 1.2rem; }
+footer { margin-top: 50px; font-size: 0.9rem; color: #aaa; }
+a { color: #1db954; text-decoration: none; }
+a:hover { text-decoration: underline; }
