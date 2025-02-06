@@ -51,36 +51,3 @@ reincarnated2resist.com
 returnofthebirdtribes.com
 reversethiscurse.com
 thegoverningconspiracy.com
-
-# Jono's Domains
-archangel.agency
-cosmiccodex.app
-cosmiccypher.app
-earthalliance.news
-fusiongirl.app
-naturacodex.app
-naturacodex.com
-navcom.app
-ravecom.app
-ravelite.app
-raver.buzz
-raver.community
-raver.dance
-raver.events
-raver.express
-raver.fm
-raver.group
-raver.guru
-raver.network
-raver.party
-raver.tech
-raver.zone
-starcom.app
-thora.show
-thora.tech
-
-# Cody’s CryptoSpace Domains
-cryptosecurity.space
-cryptospacefinance.com
-cryptospacefinance.info
-cryptospacefinance.org
