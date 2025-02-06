@@ -11,3 +11,4 @@ node_modules/
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+.env
