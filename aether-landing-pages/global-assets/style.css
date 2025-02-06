@@ -4,13 +4,16 @@ body {
     padding: 50px;
     background-image: url('background.jpg');
     background-size: cover;
+    background-position: center;
     color: #fff;
 }
+
 .container {
     background: rgba(0, 0, 0, 0.6);
     padding: 20px;
     border-radius: 10px;
 }
+
 .logo {
     max-width: 200px;
     margin-bottom: 20px;
